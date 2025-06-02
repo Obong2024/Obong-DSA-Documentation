@@ -64,49 +64,50 @@ Project 1: Basic Excel Functions
        - = MIN(D8:D27)
        - = 1,130,642
 
-    (v)	Total No of Staff
+     (v) Total No of Staff
 
-   **Task:** Calculate total No of staff paid
-       - = COUNTA(B8:B27)
-       - = 20
+     **Task:** Calculate total No of staff paid
+     - = COUNTA(B8:B27)
+     - = 20
       
-    (vi) Fourth highest salary
+     (vi) Fourth highest salary
     
-  __Task__ Calculate fourth highest salary paid
-       - = LARGE(D8:D27)
-       - = 4,740,966
+     __Task__ Calculate fourth highest salary paid
+     - = LARGE(D8:D27)
+     - = 4,740,966
       
-    (vii)	Third Lowest salary 
+     (vii) Third Lowest salary 
     
-   **Task:** Calculate third lowest salary paid
-      - = SMALL(D8:D27)
-      - = 1,358,916
+     **Task:** Calculate third lowest salary paid
+       - = SMALL(D8:D27)
+       - = 1,358,916
 
-    (viii) Bayelsa Total Salary
+     (viii) Bayelsa Total Salary
     
-   **Task:** Calculate total Bayelsa salary paid
+     **Task:** Calculate total Bayelsa salary paid
       - = SUMIF(C8:C27,C8,D8:D27)
       - = 11,164,905
 
-     (ix) Average Oyo Salary
+      (ix) Average Oyo Salary
 
-  **Task:** Calculate Average Oyo salary paid
+     **Task:** Calculate Average Oyo salary paid
       - = AVERAGEIF(C8:C27,C16,D8:D27)
       - = 1,983,141
 
-     (x) Highest Edo Salary
+       (x) Highest Edo Salary
      
-  **Task:** Calculate Highest Edo salary paid
+     **Task:** Calculate Highest Edo salary paid
       - = MAXIFS(D8:D27,C8:C27,C16)
       - = 3,028,264
-    (xi) Lowest Taraba Salary
+      
+       (xi) Lowest Taraba Salary
     
-  **Task:** Calculate Lowest Taraba salary paid
+     **Task:** Calculate Lowest Taraba salary paid
       - = MINIFS(D8:D27,C8:C27,C10)
       - = 1,226,444
       
-    (xii) Total No of Staff in Nassarawa
+       (xii) Total No of Staff in Nassarawa
 
-   **Task:** Calculate total No of staff in Nassarawa
+      **Task:** Calculate total No of staff in Nassarawa
        - = COUNTIF(C9:C27,C15)
        - = 4
