@@ -20,7 +20,13 @@ Project 1: Basic Excel Functions
     1. Excel funnctions like: SUM, AVERAGE, MAX, MIN, COUNTA
     2. Conditional functions: SUMIF, AVERAGEIF, MAXIFS, MINIFS, COUNTIF
 
-  Table Under Review
+## Table Under Review
+
+
+
+
+
+![Excel Functions Table](https://github.com/user-attachments/assets/13b44519-d2a6-452c-adcf-c1166eb3840e)
 
 
   
