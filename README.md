@@ -19,6 +19,10 @@ Project 1: Basic Excel Functions
 ## Skills Demonstrated:
     1. Excel funnctions like: SUM, AVERAGE, MAX, MIN, COUNTA
     2. Conditional functions: SUMIF, AVERAGEIF, MAXIFS, MINIFS, COUNTIF
+
+  Table Under Review
+
+
   
 - The Dataset include: Staff data with the following colums:
 
