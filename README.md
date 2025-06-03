@@ -12,7 +12,7 @@ This learning journey has not only deepened my understanding of data but has als
 
 (1) **Microsoft Excel:** [Download here](https://www.microsoft.com)
 
-Project 1: Basic Excel Functions
+# Project 1: Basic Excel Functions
 
 **Goal**: To Demonstrate mastery of foundational Excel functions.
 
@@ -121,3 +121,26 @@ Project 1: Basic Excel Functions
       **Task:** Calculate total No of staff in Nassarawa
        - = COUNTIF(C9:C27,C15)
        - = 4
+
+# Project 2: Data Cleaning
+
+**Goal:** Clean a messy dataset to prepare it for analysis.
+
+## Skills Demonstrated:
+    1. Trimming spaces
+    2. Formatting with Cap locks
+    3. Formatting with Lowercase
+    4. Handling missing values
+    5. Correcting errors (e.g., spelling mistakes)
+    6. Standardizing formats
+
+## Tasks:
+- Clean the “Date” column into a uniform format.
+- Use TRIM, CLEAN, and PROPER functions to standardize text.
+- Fill or remove missing values.
+- Document before and after cleaning using screenshots or comments.
+
+
+
+
+  
