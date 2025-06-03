@@ -143,4 +143,17 @@ This learning journey has not only deepened my understanding of data but has als
 
 
 
+
+
+![Text Cleaning_Before](https://github.com/user-attachments/assets/a9c2911c-af80-48e4-a0b9-1ac1084af6ff)
+
+
+
+
+
+
+
+![Text Cleaning_After](https://github.com/user-attachments/assets/7e5f5e7d-3e1d-434c-8e34-69b1a2bfd513)
+
+
   
