@@ -156,4 +156,34 @@ This learning journey has not only deepened my understanding of data but has als
 ![Text Cleaning_After](https://github.com/user-attachments/assets/7e5f5e7d-3e1d-434c-8e34-69b1a2bfd513)
 
 
+
+
+
+
+
+
+
+
+# Project 3: IF OR & AND IF Functions
+
+## Goal: Use logical functions to create flexible formulas.
+
+## Skills Demonstrated:
+  - Use IF or IFS to assign students remarks (“Promote”, “Repeat”).
+    
+     - Formula used = IF(AND(G3>=40),"Pass","Fail")
+    
+  - Use OR to find students who passed at least one subject.
+       
+     - Formula used = IF(OR(S3>=50,T3>=50),"Promote","Repeat")
+           
+  - Use AND to flag students who scored above 40 in all subjects
+       
+     - Formula used = IF(AND(S3>50,T3>50),"Promoted","Repeat")
+    
+  - Use IF or IFS to assign customer age group
+       
+     - Formula used IF(N3<=19,"Teeager",IF(N3<=35,"Youth",IF(N3<=45,"Young Adult",IF(N3<=55,"Adult",IF(N3<=70,"Elder","Senior Citize")))))
+
+
   
