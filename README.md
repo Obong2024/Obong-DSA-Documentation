@@ -20,14 +20,12 @@ This learning journey has not only deepened my understanding of data but has als
     1. Excel funnctions like: SUM, AVERAGE, MAX, MIN, COUNTA
     2. Conditional functions: SUMIF, AVERAGEIF, MAXIFS, MINIFS, COUNTIF
 
-## Table Under Review
+## See Table 1
 
 
 
 
-
-![Excel Functions Table](https://github.com/user-attachments/assets/13b44519-d2a6-452c-adcf-c1166eb3840e)
-
+![Table 1](https://github.com/user-attachments/assets/c889bca2-4795-4502-b0eb-04b9ccdf2e05)
 
   
 - The Dataset include: Staff data with the following colums:
