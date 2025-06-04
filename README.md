@@ -27,6 +27,8 @@ This learning journey has not only deepened my understanding of data but has als
 
 ![Table 1](https://github.com/user-attachments/assets/c889bca2-4795-4502-b0eb-04b9ccdf2e05)
 
+
+
   
 - The Dataset include: Staff data with the following colums:
 
@@ -138,6 +140,8 @@ This learning journey has not only deepened my understanding of data but has als
 - Fill or remove missing values.
 - Document before and after cleaning using screenshots or comments.
 
+See Table before and After Cleannning
+
 
 
 
@@ -152,7 +156,6 @@ This learning journey has not only deepened my understanding of data but has als
 
 
 ![Text Cleaning_After](https://github.com/user-attachments/assets/7e5f5e7d-3e1d-434c-8e34-69b1a2bfd513)
-
 
 
 
