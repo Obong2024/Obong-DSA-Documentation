@@ -140,7 +140,7 @@ This learning journey has not only deepened my understanding of data but has als
 - Fill or remove missing values.
 - Document before and after cleaning using screenshots or comments.
 
-See Table before and After Cleannning
+## See Table before and After Cleannning
 
 
 
